@@ -3,3 +3,17 @@
     height: 374px;
     overflow: hidden;
 }
+.list {
+    width: 750px;
+}
+p {
+    display: inline;
+}
+.list > span {
+    display: inline-block;
+    width: 140px;
+    height: auto;
+}
+.list > span > img {
+    display: block;
+}
